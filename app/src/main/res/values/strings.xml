@@ -1,0 +1,93 @@
+<resources>
+    <string name="app_name">Controle de Vacinação Pet</string>
+    <string name="nome">Nome Completo:</string>
+    <string name="sobrenome">Sobrenome</string>
+    <string name="nome_completo">Nome Completo: </string>
+    <string name="erro_nome">nome nao pode ser vazio</string>
+    <string name="erro_sobrenome">sobrenome nao pode ser vazio</string>
+    <string name="campos_limpos">Campos Limpos</string>
+    <string name="masculino">Masculino</string>
+    <string name="feminino">Feminino</string>
+    <string name="prefiro_nao_dizer">Prefiro não dizer</string>
+    <string name="genero">Gênero:</string>
+    <string name="cachorro">Cachorro</string>
+    <string name="gato">Gato</string>
+    <string name="especie">Espécie:</string>
+    <string name="salvar">Salvar Alterações</string>
+    <string name="tutor"> DADOS DO TUTOR </string>
+    <string name="telefone">Telefone: </string>
+    <string name="dados_do_pet">DADOS DO PET</string>
+    <string name="nome_do_pet">Nome do pet:</string>
+    <string name="raca">Raça:</string>
+    <string name="datanascimento">Data de Nascimento:</string>
+    <string name="sexo_animal">Sexo:</string>
+    <string name="erro_telefone">Telefone não pode ser vazio.</string>
+    <string name="erro_nome_pet">Nome do Pet não pode ser vazio</string>
+    <string name="erro_raca_pet">Nome da Raça não pode ser vazio</string>
+    <string name="erro_data_nascimento">Data de nascimento incorreto ou inexistente.</string>
+    <string name="nenhum_opcao_selecionada">Nenhuma espécie selecionada</string>
+    <string name="foi_selecionado">foi selecionado.</string>
+    <string name="nenhum_sexo_selecionado">nenhum sexo selecionado.</string>
+    <string name="spinner_masculino">Masculino</string>
+    <string name="spinner_feminino">Feminino</string>
+
+    <string name="antirrabica">Antirrábica</string>
+    <string name="polivalente">Polivalente V8 ou V10</string>
+    <string name="leptospirose">Leptospirose</string>
+    <string name="Tosse_dos_canis">Tosse dos Canis</string>
+    <string name="Giardiase">Giardiase</string>
+    <string name="leishmaniose">Leishmaniose</string>
+    <string name="leucemia_feline">"Leucemia Felina (FeLV)"</string>">
+    <string name="triplice_felinase">Triplice Felinase</string>
+    <string name="clamidiose_felipe">Leptospirose</string>
+    <string name="raiva_felina">Raiva Felina</string>
+    <string name="bordetelose_felina">Bordetelose Felina</string>
+    <string name="coronavirose_felina">Coronavirose Felina</string>
+    <string name="dermatofitose_felina">Dermatofitose Felina</string>
+
+    <string name="caes_e_gatos">Caes e Gatos</string>
+    <string name="caes">Caes</string>
+    <string name="gatos">Gatos</string>
+
+    <string name="raiva">Raiva</string>
+    <string name="cinomose">Cinomose, Parvorirose, Hepatite, Adenovírus, Parainfluenza</string>
+    <string name="traqueobronquite">Traqueobronquite Infecciosa</string>
+    <string name="rinotraqueite">Rinotraqueíte, Calicivirose, Panleucopenia</string>
+    <string name="clamidiose_felina">Clamidiose Felina</string>
+    <string name="bordetelose">Bordetelose</string>
+    <string name="coronavirose">Coronavirose</string>
+    <string name="dermatofitose">Dermatofitose</string>
+
+    <string name="variavel">Variável</string>
+    <string name="anual">Anual</string>
+
+
+    <string name="foi_clicado">\"\n foi clicado!</string>
+    <string name="voce_selecionou">"Você selecionou: \"</string>
+    <string name="nome_vacina">Nome da Vacina</string>
+    <string name="valor_vacina">Valor</string>
+    <string name="tipo_raca">Animal</string>
+    <string name="c_es">Cães</string>
+
+    <string name="adicionar">Adicionar</string>
+    <string name="sobre">Sobre</string>
+    <string name="nome_aluno">Nome: Rodrigo Almeida Farias</string>
+    <string name="curso_utfpr">Curso: Especialização em Tecnologia Java</string>
+    <string name="email_utfpr">E-mail Aluno: rfarias@alunos.utfpr.edu.br</string>
+    <string name="descricao_sobre">Descrição: Aplicativo para Controle de Vacinação Pet</string>
+    <string name="nomeVet">Veterinário(a)</string>
+    <string name="programaVacinacaoPet">Programa de Vacinação PET</string>
+    <string name="dataVacinacao">Vacinado em:</string>
+    <string name="cadastro_de_vacina">Cadastro de Vacina</string>
+    <string name="carteira_de_vacinacao">Carteira de Vacinação</string>
+    <string name="editar">Editar</string>
+    <string name="excluir">Excluir</string>
+    <string name="dados_apagados">Dados Apagados</string>
+    <string name="limpar">Limpar</string>
+    <string name="nova_vacina">Nova Vacina</string>
+    <string name="editar_vacina">Editar Vacina</string>
+    <string name="sugerir_tipo">Sugerir Tipo</string>
+    <string name="ordenacao">Ordenação</string>
+
+
+</resources>

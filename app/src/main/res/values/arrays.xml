@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string-array name="nomes">
+        <item>@string/antirrabica</item>
+        <item>@string/polivalente</item>
+        <item>@string/leptospirose</item>
+        <item>@string/Tosse_dos_canis</item>
+        <item>@string/Giardiase</item>
+        <item>@string/leishmaniose</item>
+        <item>@string/leucemia_feline</item>
+        <item>@string/triplice_felinase</item>
+        <item>@string/clamidiose_felipe</item>
+        <item>@string/raiva_felina</item>
+        <item>@string/bordetelose_felina</item>
+        <item>@string/coronavirose_felina</item>
+        <item>@string/dermatofitose_felina</item>
+    </string-array>
+
+    <string-array name="valor_vacina">
+        <item>89.99</item>
+        <item>1100.99</item>
+        <item>49.99</item>
+        <item>83.59</item>
+        <item>120</item>
+        <item>100</item>
+        <item>250.99</item>
+        <item>109.98</item>
+        <item>49.99</item>
+        <item>38.50</item>
+        <item>27.40</item>
+        <item>25</item>
+        <item>80</item>
+    </string-array>
+
+    <integer-array name="tipos_posicao">
+        <item>0</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>2</item>
+        <item>2</item>
+        <item>2</item>
+        <item>2</item>
+        <item>2</item>
+        <item>2</item>
+        <item>2</item>
+    </integer-array>
+
+</resources>
